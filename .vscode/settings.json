@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "riscv.h": "c",
+        "stdlib.h": "c",
+        "fcntl.h": "c",
+        "mutex": "c",
+        "memory": "c",
+        "semaphore": "c",
+        "stop_token": "c"
+    }
+}
